@@ -3,4 +3,9 @@ name = "Insultinator5_0"
 version = "0.1.0"
 edition = "2021"
 
+[lib]
+crate-type = ["cdylib"]
+
 [dependencies]
+enigo = "0.2.1"
+pyo3 = { version = "0.17", features = ["extension-module"] }
