@@ -5,6 +5,7 @@ edition = "2021"
 
 [lib]
 crate-type = ["cdylib"]
+name = "insultinator_backend"
 
 [dependencies]
 enigo = "0.2.1"

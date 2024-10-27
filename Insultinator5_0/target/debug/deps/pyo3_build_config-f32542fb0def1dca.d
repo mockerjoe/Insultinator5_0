@@ -1,0 +1,13 @@
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\libpyo3_build_config-f32542fb0def1dca.rmeta: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\errors.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\impl_.rs F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config-file.txt F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config.txt
+
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\libpyo3_build_config-f32542fb0def1dca.rlib: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\errors.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\impl_.rs F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config-file.txt F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config.txt
+
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\pyo3_build_config-f32542fb0def1dca.d: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\errors.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\impl_.rs F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config-file.txt F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config.txt
+
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\lib.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\errors.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pyo3-build-config-0.17.3\src\impl_.rs:
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config-file.txt:
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\build\pyo3-build-config-a11a4686905fd630\out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=F:\\git\\Insultinator5_0\\Insultinator5_0\\target\\debug\\build\\pyo3-build-config-a11a4686905fd630\\out
