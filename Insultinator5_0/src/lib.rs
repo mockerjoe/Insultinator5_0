@@ -21,13 +21,9 @@ fn send_text_to_chat(text: String, chat_key: String) -> PyResult<()> {
         return Err(PyErr::new::<pyo3::exceptions::PyValueError, _>("Invalid chat key provided"));
     }
 
-    // Delay before sending messages
-    //thread::sleep(Duration::from_secs_f64(delay));
-
     // Send each line of text
     for line in text.lines() {
         enigo.text(line);
-        //thread::sleep(Duration::from_secs_f64(delay));
         enigo.key(Key::Return, Click); // Simulate pressing Enter
     }
     
