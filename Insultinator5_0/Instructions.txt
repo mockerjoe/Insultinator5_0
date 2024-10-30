@@ -5,7 +5,7 @@
 4. cargo build
 5. (optional for building .exe) pyinstaller gui.py --onefile --windowed --name my_gui --add-data ".venv/Lib/site-packages/squad_scrambler/squad_scrambler.pyd;." --specpath .
 6. python Insultinator5_1.py
-4. use
-5. deactivate (to exit virtual enviroment)
+7. use
+8. deactivate (to exit virtual enviroment)
 
 forget the part above unless you want to build the file yourself
