@@ -1,11 +1,8 @@
 use enigo::{
-    Button,
-    Coordinate,
-    Direction::{Click, Press, Release},
+    Direction::{Click},
     Enigo,
     Key,
     Keyboard,
-    Mouse,
     Settings,
 };
 use pyo3::prelude::*;
@@ -14,7 +11,7 @@ use std::time::Duration;
 
 /// Initializes the Enigo struct and sends the specified text with a simulated Enter key press.
 #[pyfunction]
-fn send_text_to_chat(text: String, chat_key: String, delay: f64) -> PyResult<()> {
+fn send_text_to_chat(text: String, chat_key: String) -> PyResult<()> {
     let mut enigo = Enigo::new(&Settings::default()).map_err(|_| PyErr::new::<pyo3::exceptions::PyRuntimeError, _>("Failed to initialize Enigo"))?;
 
     // Open chat with specified chat key
@@ -25,19 +22,15 @@ fn send_text_to_chat(text: String, chat_key: String, delay: f64) -> PyResult<()>
     }
 
     // Delay before sending messages
-    thread::sleep(Duration::from_secs_f64(delay));
+    //thread::sleep(Duration::from_secs_f64(delay));
 
     // Send each line of text
     for line in text.lines() {
         enigo.text(line);
-        thread::sleep(Duration::from_secs_f64(delay));
+        //thread::sleep(Duration::from_secs_f64(delay));
         enigo.key(Key::Return, Click); // Simulate pressing Enter
     }
-
-    enigo.key(Key::Control, Press);
-    enigo.key(Key::Unicode('z'), Click);
-    enigo.key(Key::Control, Release);
-
+    
     Ok(())
 }
 

@@ -1,8 +1,11 @@
-1. pip install maturin
+0. Go to root directory of insultinator 
+1. in console pip install maturin
 2. .venv\Scripts\activate
-2.5 pyinstaller gui.py --onefile --windowed --name my_gui --add-data ".venv/Lib/site-packages/squad_scrambler/squad_scrambler.pyd;." --specpath .(optional for building .exe)
-3. python gui.py
+3. matrurin develop
+4. cargo build
+5. (optional for building .exe) pyinstaller gui.py --onefile --windowed --name my_gui --add-data ".venv/Lib/site-packages/squad_scrambler/squad_scrambler.pyd;." --specpath .
+6. python Insultinator5_1.py
 4. use
-5. deactivate
+5. deactivate (to exit virtual enviroment)
 
 forget the part above unless you want to build the file yourself
