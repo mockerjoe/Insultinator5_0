@@ -16,6 +16,7 @@ fn send_text_to_chat(text: String, chat_key: String) -> PyResult<()> {
 
     // Open chat with specified chat key
     if let Some(chat_char) = chat_key.chars().next() {
+        thread::sleep(Duration::from_millis(5));
         enigo.key(Key::Unicode(chat_char), Click);
     } else {
         return Err(PyErr::new::<pyo3::exceptions::PyValueError, _>("Invalid chat key provided"));

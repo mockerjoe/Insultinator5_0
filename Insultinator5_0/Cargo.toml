@@ -8,5 +8,6 @@ crate-type = ["cdylib"]
 name = "insultinator_backend"
 
 [dependencies]
+clipboard = "0.5"  
 enigo = "0.2.1"
 pyo3 = { version = "0.17", features = ["extension-module"] }

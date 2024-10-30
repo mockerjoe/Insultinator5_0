@@ -3,9 +3,11 @@
 2. .venv\Scripts\activate
 3. matrurin develop
 4. cargo build
-5. (optional for building .exe) pyinstaller gui.py --onefile --windowed --name my_gui --add-data ".venv/Lib/site-packages/squad_scrambler/squad_scrambler.pyd;." --specpath .
+5. (optional for building .exe) pyinstaller --noconfirm --onefile --windowed --icon "F:/git/Insultinator5_0/Insultinator5_0/insult.ico" --add-data "F:/git/Insultinator5_0/Insultinator5_0/.venv/Lib/site-packages/insultinator_backend/or_backend.pyd;." --add-data ".venv/Lib/site-packages/customtkinter/assets/themes" --specpath . (The "F:..." strings need to be replaced with your current paths)
 6. python Insultinator5_1.py
 7. use
 8. deactivate (to exit virtual enviroment)
 
 forget the part above unless you want to build the file yourself
+
+

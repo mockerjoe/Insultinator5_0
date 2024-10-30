@@ -1,0 +1,11 @@
+diff a/Insultinator5_0/Instructions.txt b/Insultinator5_0/Instructions.txt	(rejected hunks)
+@@ -0,0 +1,8 @@
++1. pip install maturin
++2. .venv\Scripts\activate
++2.5 pyinstaller gui.py --onefile --windowed --name my_gui --add-data ".venv/Lib/site-packages/squad_scrambler/squad_scrambler.pyd;." --specpath .(optional for building .exe)
++3. python gui.py
++4. use
++5. deactivate
++
++forget the part above unless you want to build the file yourself
+\ No newline at end of file

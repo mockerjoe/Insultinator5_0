@@ -1,0 +1,11 @@
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\libclipboard_win-e521f4f7266065b1.rmeta: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src/lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\utils.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\formats.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\raw.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\image.rs
+
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\libclipboard_win-e521f4f7266065b1.rlib: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src/lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\utils.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\formats.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\raw.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\image.rs
+
+F:\git\Insultinator5_0\Insultinator5_0\target\debug\deps\clipboard_win-e521f4f7266065b1.d: C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src/lib.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\utils.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\formats.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\raw.rs C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src/lib.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\utils.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\formats.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\raw.rs:
+C:\Users\Jannik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-2.2.0\src\image.rs:
